@@ -21,6 +21,7 @@ How to design a standard PCB layout using Altium Designer
 - **Routing**
    - `D + R > Design Rules > Routing > Width`
    - Min Width = 0.3 mm, Preferred Width = 0.3 mm, Max Width = 0.5 mm
+   - `D + R > Design Rules > Routing > Width_PWR`
    - Min Width (PWR) = 0.4 mm, Preferred Width (PWR) = 0.4 mm, Max Width (PWR) = 4 mm
    - `D + R > Design Rules > Routing > Routing Via Style`
    - Via Diameter = 0.6 mm, Via Hole Size = 0.3 mm
