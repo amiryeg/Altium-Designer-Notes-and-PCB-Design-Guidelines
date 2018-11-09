@@ -44,10 +44,12 @@ How to design a standard PCB layout using Altium Designer
    - Silk to Silk Clearance = 0.1 mm
 - **Placement**
    - `D + R > Design Rules > Placement > Component Clearance`
-   - Component Clearance (Vertical and Horizontal) = 0.2 mm 
+   - Component Clearance (Vertical) = 0.2 mm
+   - Component Clearance (Horizontal) = 0.2 mm
 - **Via** 
   - `DXP > Prefs > PCB Editor > Defaults > Via`
-  - Via Diameter = 0.6 mm, Via Hole Size = 0.3 mm
+  - Via Diameter = 0.6 mm
+  - Via Hole Size = 0.3 mm
 
 ### Stackup
 - `Design > Layer Stack Manager`
