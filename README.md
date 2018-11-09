@@ -28,7 +28,8 @@ How to design a standard PCB layout using Altium Designer
    - Preferred Width (PWR) = 0.4 mm
    - Max Width (PWR) = 4 mm
    - `D + R > Design Rules > Routing > Routing Via Style`
-   - Via Diameter = 0.6 mm, Via Hole Size = 0.3 mm
+   - Via Diameter = 0.6 mm
+   - Via Hole Size = 0.3 mm
 - **Mask**
    - `D + R > Design Rules > Mask > Solder Mask Expansion`
    - Solder Mask Expansion = 0.1 mm
