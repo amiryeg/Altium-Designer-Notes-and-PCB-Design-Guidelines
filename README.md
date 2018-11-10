@@ -7,12 +7,17 @@ How to design a standard PCB layout using Altium Designer
 </p>
 
 ## Table of Contents
+- General Information
 - [Shortcut Keys](#shortcut-keys)
+- Components
 - [Schematics](#schematics)
-- [Setup Before Routing](#setup-before-routing)
+- [Setup Before Layout](#setup-before-layout)
   - [Rules](#rules)
   - [Stackup](#stackup)
   - [Set Net Colors](#set-net-colors)
+- Placement
+- Layout
+- High Speed Tips
 
 ## Shortcut Keys
 
@@ -68,7 +73,7 @@ Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Gu
     - For example: bypass capacitors.
 - Generate **PDF** of the completed schematic.
 
-## Setup Before Routing
+## Setup Before Layout
 
 ### Rules
 - **Clearance**
