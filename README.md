@@ -8,11 +8,16 @@ How to design a standard PCB layout using Altium Designer
 </p>
 
 ## Table of Contents
+- [Shortcut Keys](#shortcut-keys)
 - [Setup Before Routing](#setup-before-routing)
    - [Rules](#rules)
    - [Stackup](#stackup)
    - [Set Net Colors](#set-net-colors)
- 
+
+## Shortcut Keys
+
+Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Guides/Legacy/GU0104%20Shortcut%20Keys.PDF)]
+
 ## Setup Before Routing
 
 ### Rules
