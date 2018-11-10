@@ -1,4 +1,3 @@
-
 # Altium Designer Notes and PCB Design Guidelines
 How to design a standard PCB layout using Altium Designer
 <br />**This document is currently in a work in progress.**
@@ -9,14 +8,65 @@ How to design a standard PCB layout using Altium Designer
 
 ## Table of Contents
 - [Shortcut Keys](#shortcut-keys)
+- [Schematics](#schematics)
 - [Setup Before Routing](#setup-before-routing)
-   - [Rules](#rules)
-   - [Stackup](#stackup)
-   - [Set Net Colors](#set-net-colors)
+  - [Rules](#rules)
+  - [Stackup](#stackup)
+  - [Set Net Colors](#set-net-colors)
 
 ## Shortcut Keys
 
 Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Guides/Legacy/GU0104%20Shortcut%20Keys.PDF)]
+
+## Schematics
+
+- Draw circuits from **left to right** and **top to bottom**.
+- Draw circuits in functional block and use **Net Labels** for connecting blocks to each other.
+- Use **standard designators**:
+   - IC: IC or U
+   - Resistor: R
+   - Capacitor: C
+   - Inductor: L
+   - Transistor: Q or T
+   - Diode/LED: D
+   - Crystal: Y/XTAL
+   - Pin headers: J
+   - Jumper: JP
+   - Fuse: F
+   - Ferrite Bead: FB
+   - Fiducial: FD
+   - Test point: TP
+- Add the **Cover Page** to the schematic:
+   - Project name
+   - Date
+   - Re/version number
+   - All the names of schematics
+   - Notes legend
+   - Company information
+   - Schematic status with date (Draft, Preliminary, Checked, Released)
+      - Draft: Blocks, just the structure of the schematic.
+      - Preliminary: Connections done, Quiet close to final.
+      - Checked: No mistakes in schematic.
+      - Released: PCB sent for fab.
+- Don't connect 4 wires at one junction.
+- Place all labels, designators, pins, text etc. **horizontally**.
+- **Don't fill up** the whole sheet.
+- Name schematics with **clear** and **short** name.
+    - For example: Use CPU_HDMI and CPU_LVDS instead of CPU1 and CPU2.
+- Use "**+...V...**" for power nets
+    - **Never use "VCC" as net name!**
+    - For example: +12V, +5V, +3V3, +2V5, and etc.  
+- **Fill information** in Title block.
+- Use **distinctly** and **clear** names for schematics.
+- Add useful **Design Notes** on the schematic.
+- If you suspect that there are parts in the circuit, place them. If you do not need them, you can remove them later!
+- **Double check** RX & TX pins.
+    - **Never use "TX" & "RX" as net name alone!**
+    - For example: Use MCU_TX or GPS_RX instead of TX or RX alone!
+- Put enough and useful Test Points (TPs) for circuit debugging.
+- Place components in the schematic **close to the pins** where they should be located on PCB.
+    - For example: bypass capacitors.
+- Generate **PDF** of the completed schematic.
 
 ## Setup Before Routing
 
