@@ -1,6 +1,7 @@
 
 # Altium Designer Notes and PCB Design Guidelines
 How to design a standard PCB layout using Altium Designer
+<br />**This document is currently in a work in progress.**
 
 <p align="center"> 
 <img src="https://www.altium.com/altium-designer-coming-soon/theme/images/AD_FirstScreen_X2_black.png">
