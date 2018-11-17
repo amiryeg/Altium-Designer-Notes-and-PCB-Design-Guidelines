@@ -48,7 +48,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `Tab` (while routing): Brings up routing options/properties windows.
    - `Shift + Space`: Change the track routing style (e.g. from straight to 45 to curved and back again).
    - `Shift + W`: Set the track width to something from the predefined track width list.
-   - `T + G + A + A`: Repour all polygons.
+   - `T + G + A`: Repour all polygons.
 - **Component Placement**
    - `L`: Flip a component.
    - `Spacebar`: Rotate object by 90°.
