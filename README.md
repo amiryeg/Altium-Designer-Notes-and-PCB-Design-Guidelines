@@ -49,7 +49,34 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `Shift + Space`: Change the track routing style (e.g. from straight to 45 to curved and back again).
    - `Shift + W`: Set the track width to something from the predefined track width list.
    - `T + G + A + A`: Repour all polygons.
-
+- **Component Placement**
+   - `L`: Flip a component.
+   - `Spacebar`: Rotate object by 90°.
+   - `J + C`: Jump to component.
+   - `Ctrl + Shift + C`: Align horizontal centers.
+   - `Ctrl + Shift + V`: Align vertical centers.
+   - `Ctrl + Shift + T`: Align top.
+   - `Ctrl + Shift + B`: Align bottom.
+   - `Ctrl + Shift + L`: Align left.
+   - `Ctrl + Shift + R`: Align right.
+   - `E, M, M`: Move component (useful for when you can’t select it because it’s ontop of other components).
+- **Visualisation**
+   - `Shift + S`: Hide all but selected layer.
+   - `V + B`: Flip board.
+   - `MouseScroll`: Move up/down.
+   - `Shift + MouseScroll`: Move left/right.
+   - `Ctrl + MouseScroll`: Zoom in/out.
+   - `Ctrl + M`: Measure.
+   - `+`/`-`: Increment/Decrement through the enabled layers.
+   - `*`: Increment/Decrement through routing layers only.
+   - `S + S` or `Ctrl + H`: Enables you to select a section of connected copper. Stops the selection at a via, pad or intersection.
+   - `D + T + <letter>`: Select a view configuration. These views and their key shortcuts are user configurable.
+     - `D + T + U`: Selects the “up” configuration (all top layers).
+     - `D + T + D`: Selects the “down” configuration (all bottom layers).
+   - `D + O`: Open Board Options window.
+   - `Ctrl + G`: Open the Grid Editor window.
+   - `L`: Show the Layers dialog box to adjust the visible layers and/or enable/disable layers.
+   - `G`: Cycle through the predefined grids.
 
 ## Schematics
 
