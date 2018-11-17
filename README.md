@@ -54,11 +54,11 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `Spacebar`: Rotate object by 90°.
    - `J + C`: Jump to component.
    - `Ctrl + Shift + C`: Align horizontal centers.
+   - `Ctrl + Shift + T`: Align horizontal tops.
+   - `Ctrl + Shift + B`: Align horizontal bottoms.
    - `Ctrl + Shift + V`: Align vertical centers.
-   - `Ctrl + Shift + T`: Align top.
-   - `Ctrl + Shift + B`: Align bottom.
-   - `Ctrl + Shift + L`: Align left.
-   - `Ctrl + Shift + R`: Align right.
+   - `Ctrl + Shift + L`: Align vertical lefts.
+   - `Ctrl + Shift + R`: Align vertical rights.
    - `E, M, M`: Move component (useful for when you can’t select it because it’s ontop of other components).
 - **Visualisation**
    - `Shift + S`: Hide all but selected layer.
