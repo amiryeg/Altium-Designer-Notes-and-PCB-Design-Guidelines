@@ -37,6 +37,19 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `J + N`: Jump to net.
    - `T + A + A`: Open the “Annotate” window.
    - `T + A + U` Open the “Quick Annotate” window.
+### PCB Designer
+- **General**
+   - `D + I`: Import changes from schematic to PCB.
+   - `T + D + R`: Run DRC (Design Rule Checks).
+   - `Q`: Toggle the measurement unit system between metric and imperial.
+   - `T + C`: Cross-probe a net, pin or component between the schematic and the PCB.
+- **Routing**
+   - `P + T`: Begin routing a track. 
+   - `Tab` (while routing): Brings up routing options/properties windows.
+   - `Shift + Space`: Change the track routing style (e.g. from straight to 45 to curved and back again).
+   - `Shift + W`: Set the track width to something from the predefined track width list.
+   - `T + G + A + A`: Repour all polygons.
+
 
 ## Schematics
 
