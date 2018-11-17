@@ -21,7 +21,14 @@ How to design a standard PCB layout using Altium Designer
 
 ## Shortcut Keys
 
-Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Guides/Legacy/GU0104%20Shortcut%20Keys.PDF)]
+All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Guides/Legacy/GU0104%20Shortcut%20Keys.PDF)]
+### Schematic Designer
+- `Ctrl + M`: Measure
+- `C + C`: Compile the active project
+- `D + U`: Update the PCB with any schematic changes.
+- `D + O`: Open the “Document Options” window.
+- `Q`: Toggle the measurement unit system between metric and imperial.
+- `T + C`: Cross-probe a net, pin or component between the schematic and the PCB
 
 ## Schematics
 
