@@ -15,7 +15,7 @@ How to design a standard PCB layout using Altium Designer
   - [Rules](#rules)
   - [Stackup](#stackup)
   - [Set Net Colors](#set-net-colors)
-- Placement
+- [Placement](#placement)
 - Layout
 - High Speed Tips
 
@@ -181,5 +181,22 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - Net Color for GND = Blue (236)
 - Net Color for PWR = Orange (4) or Pink (1)
 - `F5` = Toggle Net Colors
+
+## Placement
+
+- Plan layout first, then placement.
+- Start with BMC (Big, Main and Critical) components. e.g. MCU and clock devices.
+- Place predefined location of components and connectors.
+- Isolate analog and digital power supply sections.
+- Place clock driver close to clock oscillator.
+- Arrange components in rows and columns.
+- Arrange components with uniform orientation, e.g. diodes and polarized capacitors.
+- Indicate polarity on silk screen.
+
+
+
+
+
+
 
 
