@@ -42,7 +42,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 ### PCB Designer
 - **General**
    - `D` Then `I`: Import changes from schematic to PCB.
-   - `T` Then `D` + `R`: Run DRC (Design Rule Checks).
+   - `T` Then `D` Then `R`: Run DRC (Design Rule Checks).
    - `Q`: Toggle the measurement unit system between metric and imperial.
    - `T` Then `C`: Cross-probe a net, pin or component between the schematic and the PCB.
 - **Routing**
