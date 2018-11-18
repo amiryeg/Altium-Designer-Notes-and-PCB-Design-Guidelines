@@ -22,8 +22,7 @@ How to design a standard PCB layout using Altium Designer
 ## Shortcut Keys
 
 All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learning-Guides/Legacy/GU0104%20Shortcut%20Keys.PDF)]
-
-+400 Shortcuts for Altium Designer [[View](https://shortcutworld.com/Altium-Designer/win/Altium-Designer_Shortcuts)]
+<br />+400 Shortcuts for Altium Designer [[View](https://shortcutworld.com/Altium-Designer/win/Altium-Designer_Shortcuts)]
 
 ### Schematic Designer
 - **General**
