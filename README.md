@@ -53,7 +53,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `L`: Flip a component.
    - `Spacebar`: Rotate object by 90°.
    - `J` Then `C`: Jump to component.
-   - `Ctrl` +` Shift` + `C`: Align horizontal centers.
+   - `Ctrl` + `Shift` + `C`: Align horizontal centers.
    - `Ctrl` + `Shift` + `T`: Align horizontal tops.
    - `Ctrl` + `Shift` + `B`: Align horizontal bottoms.
    - `Ctrl` + `Shift` + `V`: Align vertical centers.
@@ -70,7 +70,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - `+` / `-`: Increment/Decrement through the enabled layers.
    - `*`: Increment/Decrement through routing layers only.
    - `S` Then `S` / `Ctrl` + `H`: Enables you to select a section of connected copper. Stops the selection at a via, pad or intersection.
-   - `D Then T Then <letter>`: Select a view configuration. These views and their key shortcuts are user configurable.
+   - `D` Then `T` Then `<letter>`: Select a view configuration. These views and their key shortcuts are user configurable.
      - `D` Then `T` Then `U`: Selects the “up” configuration (all top layers).
      - `D` Then `T` Then `D`: Selects the “down” configuration (all bottom layers).
    - `D` Then `O`: Open Board Options window.
