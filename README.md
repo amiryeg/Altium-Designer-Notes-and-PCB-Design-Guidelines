@@ -25,56 +25,56 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 ### Schematic Designer
 - **General**
    - `Ctrl` + `M`: Measure.
-   - `C + C`: Compile the active project.
-   - `D + U`: Update the PCB with any schematic changes.
-   - `D + O`: Open the “Document Options” window.
+   - `C` Then `C`: Compile the active project.
+   - `D` Then `U`: Update the PCB with any schematic changes.
+   - `D` Then `O`: Open the “Document Options” window.
    - `Q`: Toggle the measurement unit system between metric and imperial.
-   - `T + C`: Cross-probe a net, pin or component between the schematic and the PCB.
+   - `T` Then `C`: Cross-probe a net, pin or component between the schematic and the PCB.
 - **Schematic Routing**
-   - `P + W`: Start placing wires.
+   - `P` Then `W`: Start placing wires.
 - **Component Placement**
-   - `J + C`: Jump to component.
-   - `J + N`: Jump to net.
-   - `T + A + A`: Open the “Annotate” window.
-   - `T + A + U` Open the “Quick Annotate” window.
+   - `J` Then `C`: Jump to component.
+   - `J` Then `N`: Jump to net.
+   - `T` Then `A` Then `A`: Open the “Annotate” window.
+   - `T` Then `A` Then `U` Open the “Quick Annotate” window.
 ### PCB Designer
 - **General**
-   - `D + I`: Import changes from schematic to PCB.
-   - `T + D + R`: Run DRC (Design Rule Checks).
+   - `D` Then `I`: Import changes from schematic to PCB.
+   - `T` Then `D` + `R`: Run DRC (Design Rule Checks).
    - `Q`: Toggle the measurement unit system between metric and imperial.
-   - `T + C`: Cross-probe a net, pin or component between the schematic and the PCB.
+   - `T` Then `C`: Cross-probe a net, pin or component between the schematic and the PCB.
 - **Routing**
-   - `P + T`: Begin routing a track. 
+   - `P` Then `T`: Begin routing a track. 
    - `Tab` (while routing): Brings up routing options/properties windows.
-   - `Shift + Space`: Change the track routing style (e.g. from straight to 45 to curved and back again).
-   - `Shift + W`: Set the track width to something from the predefined track width list.
-   - `T + G + A`: Repour all polygons.
+   - `Shift` + `Space`: Change the track routing style (e.g. from straight to 45 to curved and back again).
+   - `Shift` + `W`: Set the track width to something from the predefined track width list.
+   - `T` Then `G` Then `A`: Repour all polygons.
 - **Component Placement**
    - `L`: Flip a component.
    - `Spacebar`: Rotate object by 90°.
-   - `J + C`: Jump to component.
-   - `Ctrl + Shift + C`: Align horizontal centers.
-   - `Ctrl + Shift + T`: Align horizontal tops.
-   - `Ctrl + Shift + B`: Align horizontal bottoms.
-   - `Ctrl + Shift + V`: Align vertical centers.
-   - `Ctrl + Shift + L`: Align vertical lefts.
-   - `Ctrl + Shift + R`: Align vertical rights.
-   - `E, M, M`: Move component (useful for when you can’t select it because it’s ontop of other components).
+   - `J` Then `C`: Jump to component.
+   - `Ctrl` +` Shift` + `C`: Align horizontal centers.
+   - `Ctrl` + `Shift` + `T`: Align horizontal tops.
+   - `Ctrl` + `Shift` + `B`: Align horizontal bottoms.
+   - `Ctrl` + `Shift` + `V`: Align vertical centers.
+   - `Ctrl` + `Shift` + `L`: Align vertical lefts.
+   - `Ctrl` + `Shift` + `R`: Align vertical rights.
+   - `E` Then `M` Then `M`: Move component (useful for when you can’t select it because it’s ontop of other components).
 - **Visualisation**
-   - `Shift + S`: Hide all but selected layer.
-   - `V + B`: Flip board.
+   - `Shift` + `S`: Hide all but selected layer.
+   - `V` Then `B`: Flip board.
    - `MouseScroll`: Move up/down.
-   - `Shift + MouseScroll`: Move left/right.
-   - `Ctrl + MouseScroll`: Zoom in/out.
-   - `Ctrl + M`: Measure.
-   - `+`/`-`: Increment/Decrement through the enabled layers.
+   - `Shift` + `MouseScroll`: Move left/right.
+   - `Ctrl` + `MouseScroll`: Zoom in/out.
+   - `Ctrl` + `M`: Measure.
+   - `+` / `-`: Increment/Decrement through the enabled layers.
    - `*`: Increment/Decrement through routing layers only.
-   - `S + S` or `Ctrl + H`: Enables you to select a section of connected copper. Stops the selection at a via, pad or intersection.
-   - `D + T + <letter>`: Select a view configuration. These views and their key shortcuts are user configurable.
-     - `D + T + U`: Selects the “up” configuration (all top layers).
-     - `D + T + D`: Selects the “down” configuration (all bottom layers).
-   - `D + O`: Open Board Options window.
-   - `Ctrl + G`: Open the Grid Editor window.
+   - `S` Then `S` / `Ctrl` + `H`: Enables you to select a section of connected copper. Stops the selection at a via, pad or intersection.
+   - `D Then T Then <letter>`: Select a view configuration. These views and their key shortcuts are user configurable.
+     - `D` Then `T` Then `U`: Selects the “up” configuration (all top layers).
+     - `D` Then `T` Then `D`: Selects the “down” configuration (all bottom layers).
+   - `D` Then `O`: Open Board Options window.
+   - `Ctrl` + `G`: Open the Grid Editor window.
    - `L`: Show the Layers dialog box to adjust the visible layers and/or enable/disable layers.
    - `G`: Cycle through the predefined grids.
 
