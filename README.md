@@ -179,8 +179,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - `PCB Panel` > `<Net Name>` > `Right-Click` > `Change Net Color`
 - `PCB Panel` > `<Net Name>` > `Right-Click` > `Display Override > Selected ON`
 - Net Color for GND = Blue (236)
-- Net Color for +5V = Orange (4)
-- Net Color for +3V3 = Pink (1)
+- Net Color for PWR = Orange (4)
 - `F5` = Toggle Net Colors
 
 
