@@ -156,7 +156,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - Hole to Hole Clearance = 0.3 mm
    - `D` Then `R` > `Design Rules` > `Manufacturing` > `Minimum Solder Mask Silver`
    - Minimum Solder Mask Silver = 0.3 mm
-   - `D` Then R` > `Design Rules` > `Manufacturing` > `Silk to Solder Mask Clearance`
+   - `D` Then `R` > `Design Rules` > `Manufacturing` > `Silk to Solder Mask Clearance`
    - Silk to Solder Mask Clearance = 0.1 mm
    - `D` Then `R` > `Design Rules` > `Manufacturing` > `Silk to Silk Clearance`
    - Silk to Silk Clearance = 0.1 mm
