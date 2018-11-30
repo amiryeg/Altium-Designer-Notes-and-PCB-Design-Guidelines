@@ -195,6 +195,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - Indicate polarity on silk screen.
 
 ## Useful Links
+- [3D and 2D CAD Models](https://www.3dcontentcentral.com/)
 - [PCB Trace Max Current Calculators](https://www.eeweb.com/tools/external-pcb-trace-max-current)
 - [Trace Width Calculators](https://www.eeweb.com/tools/external-pcb-trace-width)
 - [PCB Trace Resistance Calculator](https://www.eeweb.com/tools/trace-resistance)
