@@ -197,6 +197,8 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 ## Useful Links
 - [External PCB Trace Max Current Calculator](https://www.eeweb.com/tools/external-pcb-trace-max-current)
 - [Internal PCB Trace Max Current Calculator](https://www.eeweb.com/tools/internal-pcb-trace-max-current)
+- [External Trace Width Calculator](https://www.eeweb.com/tools/external-pcb-trace-width)
+- [Internal Trace Width Calculator](https://www.eeweb.com/tools/internal-pcb-trace-width)
 - [PCB Trace Resistance Calculator](https://www.eeweb.com/tools/trace-resistance)
 
 
