@@ -18,6 +18,7 @@ How to design a standard PCB layout using Altium Designer
 - [Placement](#placement)
 - Layout
 - High Speed Tips
+- [Useful Links](#useful-links)
 
 ## Shortcut Keys
 
@@ -193,6 +194,10 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - Arrange components with uniform orientation, e.g. diodes and polarized capacitors.
 - Indicate polarity on silk screen.
 
+## Useful Links
+- [External PCB Trace Max Current Calculator](https://www.eeweb.com/tools/external-pcb-trace-max-current)
+- [Internal PCB Trace Max Current Calculator](https://www.eeweb.com/tools/internal-pcb-trace-max-current)
+- [PCB Trace Resistance Calculator](https://www.eeweb.com/tools/trace-resistance)
 
 
 
