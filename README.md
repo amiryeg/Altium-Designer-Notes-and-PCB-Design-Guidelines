@@ -139,12 +139,12 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
    - Clearance = 0.2 mm  
 - **Routing**
    - `D` Then `R` > `Design Rules` > `Routing` > `Width`
-   - Min Width = 0.3 mm
+   - Min Width = 0.254 mm
    - Preferred Width = 0.3 mm
    - Max Width = 0.5 mm
    - `D` Then `R` > `Design Rules` > `Routing` > `Width_PWR`
-   - Min Width (PWR) = 0.4 mm
-   - Preferred Width (PWR) = 0.4 mm
+   - Min Width (PWR) = 0.254 mm
+   - Preferred Width (PWR) = 1 mm
    - Max Width (PWR) = 4 mm
    - `D` Then `R` > `Design Rules` > `Routing` > `Routing Via Style`
    - Via Diameter = 0.6 mm
