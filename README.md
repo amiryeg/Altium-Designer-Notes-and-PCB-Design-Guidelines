@@ -199,7 +199,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - Place **connectors** on one edge of the board.
 - Place at least four **mounting holes**.
 - Make sure **enough space** around mounting holes for screw heads to sit on and try placing big components around PCB.
-- Keep more space around **headers pins/connectors**.
+- Keep more space around **headers/connectors**.
 - Place **hot components** on the top side of the PCB.
 - Must place **test points** on all power nets and optional critical signals and programming pins if needed.
 
