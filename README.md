@@ -186,22 +186,22 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 ## Placement
 
 - Plan layout first, then placement.
-- Start with BMC (Big, Main and Critical) components. e.g. MCU and clock devices.
-- Place predefined location of components and connectors.
-- Isolate analog and digital power supply sections.
-- Place clock driver close to clock oscillator.
-- Arrange components in rows and columns.
-- Arrange components with uniform orientation, e.g. diodes and polarized capacitors.
-- Indicate polarity on silk screen.
-- Place all components on top side of the PCB. On complex and compact designs place short height and/or low thermal dissipation components go on bottom, never place tall components on the bottom side else it will increase the total height of the PCB.
-- Keep 1mm (40mil) space between components and 2.5 and/or 3 (100mill and/or 120mil) from component to edge
-- Place bypass caps as close to IC as possible, use combination of 10uF and 100nF, place smaller cap closer to IC.
-- Place connectors on one edge of the board.
-- Place at least four mounting holes.
-- Make sure enough space around mounting holes for screw heads to sit on and try placing big components around PCB.
-- Keep more space around headers pins/connectors.
-- Place hot components on the top side of the PCB.
-- Must place test points on all power nets and optional critical signals and programming pins if needed.
+- Start with **BMC (Big, Main and Critical)** components. e.g. MCU and clock devices.
+- Place **predefined location** of components and connectors.
+- Isolate **analog and digital** power supply sections.
+- Place **clock driver** close to clock oscillator.
+- **Arrange** components in rows and columns.
+- Arrange components with **uniform orientation**, e.g. diodes and polarized capacitors.
+- **Indicate polarity** on silk screen.
+- Place all components on **top side** of the PCB. On complex and compact designs place **short height** and/or **low thermal dissipation** components go on bottom, never place tall components on the bottom side else it will increase the total height of the PCB.
+- Keep 1mm (40mil) **space** between components and 2.5 and/or 3 (100mill and/or 120mil) from component to edge
+- Place **bypass capacitors** as close to IC as possible, use combination of 10uF and 100nF, place smaller cap closer to IC.
+- Place **connectors** on one edge of the board.
+- Place at least four **mounting holes**.
+- Make sure **enough space** around mounting holes for screw heads to sit on and try placing big components around PCB.
+- Keep more space around **headers pins/connectors**.
+- Place **hot components** on the top side of the PCB.
+- Must place **test points** on all power nets and optional critical signals and programming pins if needed.
 
 ## Useful Links
 - [3D and 2D CAD Models](https://www.3dcontentcentral.com/)
