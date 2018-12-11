@@ -204,6 +204,7 @@ All Altium Designer Shortcut Keys [[Download](http://valhalla.altium.com/Learnin
 - Must place **test points** on all power nets and optional critical signals and programming pins if needed.
 
 ## Useful Links
+- [Open Source Altium libraries](https://github.com/amiryeg/Altium-Libraries)
 - [3D and 2D CAD Models](https://www.3dcontentcentral.com/)
 - [PCB Trace Max Current Calculators](https://www.eeweb.com/tools/external-pcb-trace-max-current)
 - [Trace Width Calculators](https://www.eeweb.com/tools/external-pcb-trace-width)
